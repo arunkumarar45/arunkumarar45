@@ -183,24 +183,11 @@ OPEN_TO   : Tech Internships (Full-Stack / AI / Software Engineering)
 
 ---
 
-### `$ ./run_analytics.sh`
+### `$ ./run_analytics.sh --self-hosted`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arunkumarar45&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&ring_color=FF6B00" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=arunkumarar45&theme=transparent&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFB347" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarar45&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=FFFFFF&langs_count=8" width="49%"/>
-
-</div>
-
----
-
-### `$ ls trophies/`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arunkumarar45&theme=monokai&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://raw.githubusercontent.com/arunkumarar45/arunkumarar45/main/github-metrics.svg" width="100%"/>
 
 </div>
 
@@ -211,22 +198,6 @@ OPEN_TO   : Tech Internships (Full-Stack / AI / Software Engineering)
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunkumarar45&bg_color=0D1117&color=FF6B00&line=FF6B00&point=FFB347&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-### `$ ls summary-cards/`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=arunkumarar45&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=arunkumarar45&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=arunkumarar45&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=arunkumarar45&theme=github_dark" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=arunkumarar45&theme=github_dark" width="100%"/>
 
 </div>
 
